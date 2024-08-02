@@ -3,7 +3,7 @@
 ### Overview
 
 - This app lets you log and track workouts using natural language input. 
-- It integrates with Nutritionix to fetch input data and process it. 
+- It integrates with Nutritionix to input data and process it. 
 - And used Google Sheets API to record data (date, time, exercise name, duration, calories) to a Google Sheet.
 
 ### Obtain API Keys and Endpoints
