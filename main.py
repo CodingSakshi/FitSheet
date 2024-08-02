@@ -3,7 +3,7 @@ import requests
 from dotenv import load_dotenv
 import os
 
-GENDER = "female"  # User Data
+GENDER = "female"  # User's Data
 WEIGHT_KG = 42
 HEIGHT_CM = 165
 AGE = 14
