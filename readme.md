@@ -18,7 +18,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CodingSakshi/FitSheet.git
    ```
 
 2. **Configure Environment Variables:**
